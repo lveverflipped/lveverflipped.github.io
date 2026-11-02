@@ -13,8 +13,8 @@ This repository contains the source code for the personal academic website of **
 
 ## 📄 Selected Publications
 - **RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments**  
-  *IEEE Transactions on Robotics (T-RO)*, Regular Paper, 2026 (Accepted)  
-  [[arXiv:2601.12701]](https://arxiv.org/abs/2601.12701)
+  *IEEE Transactions on Robotics (T-RO)*, Regular Paper, 2026  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) | [[arXiv:2601.12701]](https://arxiv.org/abs/2601.12701)
 
 ---
 

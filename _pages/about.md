@@ -17,15 +17,35 @@ My research centers on **robot motion planning**, **autonomous exploration**, an
 ---
 
 ## 🔥 News
-- **[Jan. 2026]** Our regular paper **"RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments"** has been officially accepted by the **IEEE Transactions on Robotics (T-RO)**! [[arXiv]](https://arxiv.org/abs/2601.12701)
+- **[Jan. 2026]** Our regular paper **"RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments"** has been published in **IEEE Transactions on Robotics (T-RO)**! [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) [[arXiv]](https://arxiv.org/abs/2601.12701)
 
 ---
 
 ## 📄 Selected Publications
-- **RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments**  
-  **Yunpeng Lyu\***, Chao Cao\*, Ji Zhang, Howie Choset, Zhongqiang Ren (\*Equal contribution)  
-  *IEEE Transactions on Robotics (T-RO)*, Regular Paper, 2026 (Accepted)  
-  [[arXiv]](https://arxiv.org/abs/2601.12701) / [Publication Page](/publication/2026-01-19-rpt-star)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 1.2em; margin-bottom: 1.5em;">
+  <div style="flex: 1 1 260px; max-width: 320px;">
+    <a href="https://ieeexplore.ieee.org/document/11769626">
+      <img src="/images/rpt_star.jpg" alt="RPT* System Overview" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12); display: block;">
+    </a>
+  </div>
+  <div style="flex: 2 1 320px;">
+    <h3 style="margin-top: 0; margin-bottom: 0.3em; font-size: 1.05em; line-height: 1.35;">
+      <a href="https://ieeexplore.ieee.org/document/11769626">RPT*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments</a>
+    </h3>
+    <p style="margin-bottom: 0.4em; font-size: 0.9em;">
+      <strong>Yunpeng Lyu*</strong>, Chao Cao*, Ji Zhang, Howie Choset, Zhongqiang Ren (*Equal contribution)
+    </p>
+    <p style="margin-bottom: 0.6em; font-size: 0.9em; font-style: italic;">
+      <strong>IEEE Transactions on Robotics (T-RO)</strong>, Regular Paper, 2026
+    </p>
+    <p style="margin-bottom: 0;">
+      <a href="https://ieeexplore.ieee.org/document/11769626" class="btn btn--primary btn--small" style="text-decoration:none; margin-right: 4px;">IEEE Xplore</a>
+      <a href="https://arxiv.org/abs/2601.12701" class="btn btn--inverse btn--small" style="text-decoration:none; margin-right: 4px;">arXiv</a>
+      <a href="/publication/2026-01-19-rpt-star" class="btn btn--small" style="text-decoration:none;">Details</a>
+    </p>
+  </div>
+</div>
 
 ---
 
