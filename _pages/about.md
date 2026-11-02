@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Robotics at **Shanghai Jiao Tong University (SJTU)**, working under the supervision of **Prof. Zhongqiang Ren**. Prior to joining SJTU in 2024, I earned my Bachelor's degree in Mechanical Design, Manufacturing and Automation from **Huazhong University of Science and Technology (HUST)**.
+I received the B.S. degree in mechanical engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in 2024. I am currently working toward the Ph.D. degree in control science and engineering with [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China, advised by Professor [Zhongqiang Ren](https://wonderren.github.io/).
 
-My research centers on **robot motion planning**, **autonomous exploration**, and **multi-robot coordination** with theoretical guarantees, particularly in complex and uncertain environments:
-- **Autonomous Exploration & Target Search**: Formulating and solving efficient global planning strategies for active target localization and unknown space exploration.
-- **Probabilistic Routing & Global Planning**: Designing search-based path planning algorithms with solution optimality guarantees (such as the Hamiltonian Path Problem with Probabilistic Terminals).
+My research interests include **robotics**, **target search**, and **embodied artificial intelligence**, with a particular focus on:
+- **Target Search & Autonomous Exploration**: Formulating and solving efficient global planning strategies for active target localization and unknown space exploration.
+- **Probabilistic Routing & Global Planning**: Designing search-based path planning algorithms with theoretical optimality guarantees (such as the Hamiltonian Path Problem with Probabilistic Terminals).
 - **Multi-Robot Systems**: Developing scalable, distributed coordination and planning frameworks for asynchronous multi-robot exploration under intermittent communication.
 
 ---

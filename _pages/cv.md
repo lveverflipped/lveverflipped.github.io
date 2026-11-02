@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D. in Robotics**, Shanghai Jiao Tong University (SJTU), 2024 – Present (Expected 2029)
+* **Ph.D. in Control Science and Engineering**, Shanghai Jiao Tong University (SJTU), 2024 – Present
   * Advisor: Prof. Zhongqiang Ren
-* **B.S. in Mechanical Design, Manufacturing and Automation**, Huazhong University of Science and Technology (HUST), 2020 – 2024
+* **B.S. in Mechanical Engineering**, Huazhong University of Science and Technology (HUST), 2020 – 2024
 
 ## Research Interests
-* Autonomous Exploration & Target Search
-* Probabilistic Global Planning & Heuristic Search
+* Robotics, Target Search, and Embodied AI
+* Autonomous Exploration & Probabilistic Global Planning
 * Multi-Robot Coordination & Distributed Planning
 * Motion Planning with Theoretical Optimality Guarantees
 
