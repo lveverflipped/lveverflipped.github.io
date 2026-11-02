@@ -23,9 +23,9 @@ My research interests include **robotics**, **target search**, and **embodied ar
 
 ## Selected Publications
 
-<p align="center">
+<p align="center" style="margin: 1.2em 0 1em 0;">
   <a href="https://ieeexplore.ieee.org/document/11769626">
-    <img src="/images/rpt_star.jpg" alt="RPT* Target Search" style="width: 100%; max-width: 720px; border-radius: 4px; display: block; margin: 0 auto;">
+    <img src="/images/rpt_star.jpg" alt="RPT* Target Search" style="width: 100%; max-width: 420px; border-radius: 4px; display: block; margin: 0 auto;">
   </a>
 </p>
 
