@@ -17,7 +17,7 @@ My research interests include **robotics**, **target search**, and **embodied ar
 ---
 
 ## News
-* **[Jan. 2026]** Our paper **"RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments"** has been published in **IEEE Transactions on Robotics (T-RO)**! [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) [[arXiv]](https://arxiv.org/abs/2601.12701)
+* **[Oct. 2026]** Our paper **"RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments"** has been published in **IEEE Transactions on Robotics (T-RO)**! [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) [[arXiv]](https://arxiv.org/abs/2601.12701)
 
 ---
 
@@ -32,4 +32,4 @@ My research interests include **robotics**, **target search**, and **embodied ar
 * **RPT\*: Global Planning with Probabilistic Terminals for Target Search in Complex Environments**  
   **Yunpeng Lyu**, Chao Cao, Ji Zhang, Howie Choset, Zhongqiang Ren  
   *IEEE Transactions on Robotics (T-RO)*, Regular Paper, 2026.  
-  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) | [[arXiv]](https://arxiv.org/abs/2601.12701) | [[Details]](/publication/2026-01-19-rpt-star)
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11769626) | [[arXiv]](https://arxiv.org/abs/2601.12701) | [[Details]](/publication/2026-10-26-rpt-star)
